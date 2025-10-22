@@ -8,6 +8,14 @@
                 height: 100%;
             }
 
+            iframe-container {
+                position: absolute;
+                transform: rotate(90deg);
+                transform-origin: center;
+                width: 100vh;
+                height: 100vw;
+            }
+
             iframe {
                 border: none;
                 width: 100%;
