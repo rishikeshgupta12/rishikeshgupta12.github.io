@@ -25,9 +25,11 @@
         </style>
     </head>
     <body>
+        <div class="iframe-container">
         <iframe src="https://scratch.mit.edu/projects/1231727593/embed" 
         allowtransparency="true" frameborder="0" scrolling="no" 
         allowfullscreen>
+        </div>
     </iframe>
     </body>
 </html>
